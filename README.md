@@ -9,3 +9,7 @@
 - The purpose of this project is to denoise the temporal fmri data using deep learning.
 - I made 'sythetic HRF' as a label and 'sythetic HRF + noise' as a training data.
 - In the first experiment, I used U-net as a backbone architecture.
+
+
+![image](https://github.com/caden1464/MILAB-project/assets/67831416/d63078c5-2d56-4819-b375-7acd7029dbda)
+![image](https://github.com/caden1464/MILAB-project/assets/67831416/493247a0-44ca-4925-b324-53323d23eb72)
